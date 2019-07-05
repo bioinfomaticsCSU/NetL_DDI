@@ -37,4 +37,5 @@ NetL_DDI, which is a novel DDI prediction and classification method based on net
 ```
 
 [1] Qiu, J. et al. (2018) Network embedding as matrix factorization: Unifying deepwalk, line, pte, and node2vec. In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining, 459-467.
+
 [2] Ryu, J. Y. et al. (2018) Deep learning improves prediction of drug-drug and drug-food interactions. Proceedings of the National Academy of Sciences, 115(18), E4304-E4311.
