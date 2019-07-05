@@ -1,3 +1,4 @@
+# NetL_DDI
 =========
 License
 =========
@@ -17,7 +18,8 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program; if not, see <http://www.gnu.org/licenses/>.
 
-
+NetL_DDI
+=================
 
 NetL_DDI, which is a novel DDI prediction and classification method based on network representation learning [1], can predict potential interactions between drugs and identify their hidden mechanisms.
 
