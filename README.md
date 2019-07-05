@@ -1,9 +1,7 @@
-# NetL_DDI
-
 License
 =========
 
-Copyright (C) 2014 Junwei Luo(luojunwei@hpu.edu.cn)
+Copyright (C) 2014 Jianxin Wang(jxwang@mail.hpu.edu.cn)
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
